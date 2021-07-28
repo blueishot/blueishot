@@ -5,7 +5,7 @@
 <h1 align=center>About me</h1>
 <ul><li><img src="https://image.flaticon.com/icons/png/512/4207/4207247.png" width="20px" > Student in Faculdade Impacta - Software Analysis and Development</li>
   <li><img src="https://image.flaticon.com/icons/png/512/628/628297.png" width="20px" > I’m currently learning React with the programmer <a href="https://github.com/kyros200"> Rafael Najjar</a> </li>
-  <li> <img src="https://image.flaticon.com/icons/png/512/3281/3281289.png" width="20px"> Looking for an intern </li>
+  <li> <img src="https://image.flaticon.com/icons/png/512/3281/3281289.png" width="20px"> Looking for an internship </li>
   <li> <img src="https://image.flaticon.com/icons/png/512/921/921762.png" width="20px"> <b>Fun fact:</b> I have a Bachelor degree in chemistry </li>
   <li> <img src="https://image.flaticon.com/icons/png/512/1055/1055683.png" width="20px"> Coding since 2021 </li>
   
