@@ -15,3 +15,6 @@
 <h1 align=center>Looking forward to learn</h1>
 <div align=center> <img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="50px"> </img> <img src="https://image.flaticon.com/icons/png/512/2772/2772128.png" width="50px">
 
+
+<h1 align=center>Github main tools</h1>
+<div align=center> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueishot&layout=compact"> </img>
