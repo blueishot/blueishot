@@ -65,6 +65,7 @@
   <img src="https://i.imgur.com/VnZ1ob7.png" width="50px"> 
   <img src="https://i.imgur.com/8dEwVm1.png" width="50px"> 
   <img src="https://i.imgur.com/3Hem9QA.png" width="50px"> 
+  <img src="https://i.imgur.com/4uExp6R.png" width="50px"> 
   
 <h1 align=center>Looking forward to learn</h1>
 <div align=center> 
